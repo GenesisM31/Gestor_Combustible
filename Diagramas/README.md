@@ -1,1 +1,2 @@
 En este apartado podemos visualizar los diagramas que realizamos atreves de todo este tiempo hasta ahora, con cada modificación dada podemos observar el mejoramiento de los diagramas que como equipo podemos decir que hay mejoramiento y mas coherencia de los diagramas para poder resolver el problema que seria la falta de control de combustible en Bolivia 
+El diagrama se puede ver en:https://dbdiagram.io/d/6ac82824a5ab28041928b7b6
