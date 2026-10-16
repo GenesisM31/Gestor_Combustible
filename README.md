@@ -19,9 +19,3 @@ Diagrama ER	Modelo de datos y su relación con la propuesta.
  Interfaz
  Módulo de alertas
 **Equipo**
-
-Genesis Maylen Mamani Mendieta ·
-Deviz Choque Jimenes · 
-Deyna Yara Choque Limachi
-
-Ingeniería de Sistemas, Facultad de Ciencias y Tecnología — Cochabamba, Bolivia Docente: Efrain Luna
