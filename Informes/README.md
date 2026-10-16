@@ -1,1 +1,1 @@
-
+En esta carpeta llamada informes incluimos el informe de investigación que hicimos del proyecto y del conflicto que hoy en día estamos pasando, nos basamos en un contexto internacional, ya que no solo es Bolivia el que esta pasando o paso este problema, entonces agarramos estos casos para poder plantear una solucion para nuestro pais.
