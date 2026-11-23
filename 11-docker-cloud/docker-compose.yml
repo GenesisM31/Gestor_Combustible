@@ -1,0 +1,22 @@
+services:
+  oracle:
+    image: container-registry.oracle.com/database/free:latest
+    container_name: oracle-free
+    restart: unless-stopped
+    environment:
+      ORACLE_PWD: ${ORACLE_PWD}
+    ports:
+      - "127.0.0.1:1521:1521"
+    volumes:
+      - oradata:/opt/oracle/oradata
+      - ./scripts:/opt/oracle/scripts/custom:ro
+      - ./backups:/backups
+    networks:
+      - red_combustibles
+
+volumes:
+  oradata:
+
+networks:
+  red_combustibles:
+    driver: bridge
