@@ -1,0 +1,85 @@
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+TABLE_NAME
+--------------------------------------------------------------------------------
+ALERTA
+AUDITORIA_LOG
+CATEGORIA_VEHICULO
+CONDUCTORES
+CONDUCTOR_VEHICULO
+CUPO
+DISTRIBUCION_COMBUSTIBLE
+ENTIDAD
+ESTACION_SERVICIO
+FORMULARIO_BIDONES
+INCUMPLIMIENTO
+
+TABLE_NAME
+--------------------------------------------------------------------------------
+INVENTARIO_ESTACION
+PLANTA_REFINERIA
+RECLAMO_CALIDAD
+REGLA_LIMITE
+TIPO_COMBUSTIBLE
+TRANSACCION_CARGA
+USUARIO_SISTEMA
+VEHICULO
+
+19 rows selected.
+
